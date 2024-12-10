@@ -15,7 +15,7 @@ Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es 
 
 .. note::
 
-   Este proyecto está en desarrollo activo.
+   Este proyecto está en desarrollo activo. Cualquier duda, comentario o desea participar en este desarrollo escribirle a `matecom57@gmail.com`
 
 Contents
 --------
