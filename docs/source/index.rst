@@ -13,7 +13,7 @@ El Instituto cuenta con tres resonadores de resonancia magnética, dos para huma
 
 Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es necesario tener dos cuentas, una en la Red Lanirem en el canal `#don_clusterio <https://chat-lanirem.lavis.unam.mx/channel/don_clusterio/>`_ y la otra en Don Clusterio, solicitada a su Jefe inmediato.
 
-.. note::
+.. nota::
 
    Este proyecto está en desarrollo activo. Cualquier duda, comentario o desea participar en este desarrollo escribirle a ```matecom57@gmail.com```
 
