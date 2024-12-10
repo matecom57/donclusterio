@@ -1,7 +1,7 @@
 BASH y los Folder's de Trabajo
 ==============================
 
-Para trabajar en Don Clusterio, usted tiene que meter su usario y password que le fue asignano en cualquer maquina de Clusterio, despues tomara la decision en trabajar en modo escritorio o en modo terminar. Se recomienda trabajar en modo terminal ya que muchos programas proporcionan comandos que trabajan en modo terminal. Para entrar   en modo terminal, presione las teclas aCTRL-ALT-T al mismo tiempo y aparecera una ventana con informacion y se vera al finar una linea que muestra el usuario y maquina donde entro. Por ejemplo:
+Todos los usarios tienen asignado un folder por defecto y es creado cuando se define el usuario.  El folder es identificado por la palabra HOME. En este folder se guardan archivos pequeños y tratar de no exceder su tanmaño de 30MBytes, ya que si se exede se crea  
 
 ```
 santosg@penfield:$
