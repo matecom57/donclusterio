@@ -3,9 +3,10 @@ Heramientas utilizadas para el Procesamiento y Análisis de Imágenes MRI.
 
 Todos los datos que se adquieren de los resonandores de resonancia magnética estan en formato DICOM. Estos datos son transmitidos por red o transportandos en un medio digital para tenerlos en un folder ```/misc/``` de Clusterio. Para que los datos sean procesados y analizados con las herramientas correspondientes, es necesario convertirlo a un formato especial llamado *nifti*. El convertirdor que se utiliza es ```dcm2niix```. A continuación se lista ls herramientas utilizadas para el procesamiento y analisis de la imagenes, esta herramientas dependen del estudio que se desea realizar a un grupo de imagenes.
 
-:doc:`FSL <./fsl>` 
+FSL 
+---
 
-FMRIB Software Library es una colección de herramientas muy popular para el procesamiento de imágenes estructurales, funcionales y de difusión. Tmabién cuenta con funciones que incluyen el análisis estadístico de dichas imágenes. FSL es completamente open source y esta bastante bien documentado, en su wiki puedes encontrar toda la información necesaria para empezar a procesar tus imágenes.
+FMRIB Software Library es una colección de herramientas muy popular para el procesamiento de imágenes estructurales, funcionales y de difusión. Tmabién cuenta con funciones que incluyen el análisis estadístico de dichas imágenes. :doc:`FSL <./fsl>` es completamente open source y esta bastante bien documentado, en su wiki puedes encontrar toda la información necesaria para empezar a procesar tus imágenes.
 
 MRtrix3
 -------
