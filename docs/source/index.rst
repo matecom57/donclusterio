@@ -25,7 +25,7 @@ Contenido
 .. toctree::
    :numbered:
 
-   usage
    para_empezar
    bash
+   herramientas
    api
