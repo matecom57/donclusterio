@@ -21,6 +21,7 @@ Contenido
 ---------
 
 .. toctree::
+      :numbered:
 
    usage
    para_empezar
