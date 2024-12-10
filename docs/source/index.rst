@@ -27,4 +27,5 @@ Contenido
 
    usage
    para_empezar
+   bash
    api
