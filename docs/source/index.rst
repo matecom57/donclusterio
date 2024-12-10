@@ -7,6 +7,9 @@ Este documento tiene por objetivo en explicar a los uusarios de Don Clusterio en
 
 El Instituto cuenta con tres resonadores de resonancia magnetica, dos para humanos y uno para animales pequeños. La resonancia magnetica es una teccnica....
 
+Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es necesario tener dos cuentas, una en la Red Lanirem en el canal #don_clusterio y la otra en Don Clusterio, solicitada a su Jefe inmediato.
+
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
