@@ -11,7 +11,7 @@ Este documento tiene por objetivo en explicar a los uusarios de Don Clusterio en
 
 El Instituto cuenta con tres resonadores de resonancia magnética, dos para humanos y uno para animales pequeños. La IRM es una tecnología de imágenes no invasiva que produce imágenes anatómicas tridimensionales detalladas, sin el uso de la radiación dañina. 
 
-Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es necesario tener dos cuentas, una en la Red Lanirem en el canal #don_clusterio  `don_clusterio <https://chat-lanirem.lavis.unam.mx/channel/don_clusterio/>`_ y la otra en Don Clusterio, solicitada a su Jefe inmediato.
+Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es necesario tener dos cuentas, una en la Red Lanirem en el canal `#don_clusterio <https://chat-lanirem.lavis.unam.mx/channel/don_clusterio/>`_ y la otra en Don Clusterio, solicitada a su Jefe inmediato.
 
 
 Check out the :doc:`usage` section for further information, including
