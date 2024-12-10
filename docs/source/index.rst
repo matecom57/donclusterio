@@ -17,11 +17,11 @@ Para que un usuario pueda utilizar los recursos y programs de Don Clusterio  es 
 
    Este proyecto está en desarrollo activo. Cualquier duda, comentario o desea participar en este desarrollo escribirle a ```matecom57@gmail.com```
 
-Contents
---------
+Contenido
+---------
 
 .. toctree::
 
-   usage
-   para_empezar
-   api
+   1. usage
+   2. para_empezar
+   3. api
