@@ -23,7 +23,7 @@ Contenido
 ---------
 
 .. toctree::
-      :numbered:
+   :numbered:
 
    usage
    para_empezar
