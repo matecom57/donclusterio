@@ -11,7 +11,7 @@ FMRIB Software Library es una colección de herramientas muy popular para el pro
 MRtrix3
 -------
 
-Uno de los favoritos es MRtrix3 que cuenta con una larga colección de herramientas para procesar, visualizar y analizar imágenes sensibles a difusión (DWI). Si bien esta muuuy enfocado a las DWI, muchas herramientas son útiles para manejar imagenes en general. Mrtrix esta tambíen super bien documentado, aquí puedes checar su wiki.
+Uno de los favoritos es :doc:`MRtrix3 <./mrtrix3>` que cuenta con una larga colección de herramientas para procesar, visualizar y analizar imágenes sensibles a difusión (DWI). Si bien esta muuuy enfocado a las DWI, muchas herramientas son útiles para manejar imagenes en general. Mrtrix esta tambíen super bien documentado, aquí puedes checar su wiki.
 
 FreeSurfer
 ----------
