@@ -5,6 +5,7 @@ WBienvenido a la documentación de Don Clusterio
 
 Este documento tiene por objetivo en explicar a los uusarios de Don Clusterio en como almacenar sus datos, utilizar heramientas (programas utilitarios) para manejar sus datos eficientemente, y hacer uso de los programas para procesaqar, analizar estadisticamente las imagenes y exportar sus resultados para ser utilizados en sus articulos, tesis o cualquier publicacion que deseen.
 
+El Instituto cuenta con tres resonadores de resonancia magnetica, dos para humanos y uno para animales pequeños. La resonancia magnetica es una teccnica....
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
