@@ -16,7 +16,7 @@ Uno de los favoritos es :doc:`MRtrix3 <./mrtrix3>` que cuenta con una larga cole
 FreeSurfer
 ----------
 
-Un clásico!, FreeSurfer es de los softwares más utilizados para analizar imágenes de humanos. Dentro de su libreria hay montones de funciones para procesar imágenes estructurales, funcionales y de difusión. Puedes realizar desde registros, hasta tractografía y mapeo funcional. Aquí te dejo su wiki para que lo cheques.
+Un clásico!, :doc:`FreeSurfer <./freesurfer>` es de los softwares más utilizados para analizar imágenes de humanos. Dentro de su libreria hay montones de funciones para procesar imágenes estructurales, funcionales y de difusión. Puedes realizar desde registros, hasta tractografía y mapeo funcional. Aquí te dejo su wiki para que lo cheques.
 
 BIDS
 ----
