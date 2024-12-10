@@ -23,4 +23,5 @@ Contents
 .. toctree::
 
    usage
+   para_empezar
    api
