@@ -1,21 +1,31 @@
 Grosor cortical
 ---------------
 
-El grosor cortical es una medida dada por la distancia existente entre la superficie límite sustancia blanca y sustancia gris , y la superficie pial.
+El **grosor cortical** es una medida de distancia que existe entre dos superficies de estructuras anatomicas, en caso particular entre las superficies,  sustancia blanca, sustancia gris  y superficie pial.
 
 FreeSurfer
+----------
+
 Es una plataforma desarrollada por el Hospital General de Massachusetts para el análisis de IRM. Facilita la visualización, el análisis volumétrico de algunas estructuras y la obtención del grosor cortical: http://freesurfer.net/
 
 Deepprep
-En marzo de 2024 apareció deepprep, que utiliza la GPU para acelerar muchos procesos. Instrucciones para correrlo como contenedor de singularity aquí.
+--------
+
+En marzo de 2024 apareció **deepprep**, que utiliza la GPU para acelerar muchos procesos. Instrucciones para correrlo como contenedor de singularity aquí.
 
 Archivos a utilizar
+-------------------
+
 Para el análisis del grosor cortical utilizando Freesurfer se necesitan imágenes tipo T1-3D. Pueden ser DICOMs o nifti.
 
 Pasos para el análisis
+----------------------
+
 Crear carpeta “SUBJECTS_DIR” en la cual se depositaran todos los outputs de los análisis. Por ejemplo, se puede poner en una CarpetaA los dicoms e indicar que los outputs sean depositados en la Carpetab:
 
+```
 /datos/maquina/usuario/CarpetaA$ export SUBJECTS_DIR=/datos/maquina/usuario/CarpetaB 
+```
 
 Ahora se procede a asignar un nombre al sujeto, si es DICOM se usa el primero (a) o si es nifti, se usa toda la carpeta (b):
 
