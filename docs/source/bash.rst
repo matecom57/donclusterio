@@ -13,15 +13,11 @@ santosg@penfield:$/misc/tournoux1/santosg/
 
 donde **santosg** es el usuario que esta trabajando.
 
-
-
-donde santosg es el nombre de usuario y penfield es el nombre de la maquina donde entre. Esta linea muestra la interface entre el usuario y el sistema operativo y esta interface es un programa que es llamado BASH . BASH admite muchos comandos con parametros para que el sistema operativo realice aciones . Esta linea muestra tambien que estamos en folder de trabajo que se crea automaticamente cuando se crea el usuario. Este directorio es llamado HOME.
-
-Veamos que hay en este folder:
+Otro folder de importancia cuando se esta trabajando en el procesamiento y analisis de datos es el folder:
 
 ```
-lucrecia@lucrecia:~$ ls
- act_nov1024.txt         history.txt                                 prueba01          
+/tmp
 ```
 
-**ls** es un comando que muestra el contenido de los forlder's, en particula el de HOME. 
+En folder es utilizado por los programas para el procesamiento y análisis de MRI, tambien para guardar archivos temporales. 
+
