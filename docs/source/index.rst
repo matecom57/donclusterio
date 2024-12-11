@@ -3,7 +3,7 @@ WBienvenido a la documentación de Don Clusterio
 
 **Don Clusterio** es una red de computadoras que trabajan conjuntamente de manera distribuida y paralela para procesar, analizar y sacar resultados de imagenes de resonancia magnetica estructural y funcional (MRI) principalmente. 
 
-Clusterio optimiza, reduce el tiempo de procesamiento al analizar muchas imágenes. 
+Clusterio optimiza, reduce el tiempo de procesamiento al analizar muchas imágenes, ya que un proyecto de trabajo utiliza en promedio aproximadamente de 200 a 400 GBytes de espacio en disco para las imagenes (volumenes). 
 
 Esta red esta fomada de 32 equipos de computo cada uno con el Sistema Operativo UBUNTU-22. La contrucción de Don Clusterio esta implementada principalmente de los paquetes *NFS*, *NIS* y *SGE*. 
 
