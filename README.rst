@@ -7,3 +7,5 @@ with some basic Sphinx docs.
 Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
+
+https://github.com/c13inb/c13inb.github.io/wiki 
